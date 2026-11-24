@@ -1,0 +1,4 @@
+*.pem
+*.csv
+.venv/
+__pycache__/
